@@ -101,18 +101,18 @@ The frontend stores the key in localStorage for API calls.
 
 ---
 
-## 🛠 Roadmap
+## 🛠 Roadmap  
 
-[x] IOC ingestion + enrichment
-[x] Scoring + deduplication
-[x] Feeds in JSON + STIX
-[x] Intel packages → STIX reports
-[x] Alerts (email/webhook/discord)
-[x] Prometheus metrics + healthcheck
-[x] Next.js frontend (App Router)
-[ ] Docker Compose for one-command deploy
-[ ] TAXII 2.1 server for enterprise interop
-[ ] Graph views of infrastructure reuse
+[x] IOC ingestion + enrichment  
+[x] Scoring + deduplication  
+[x] Feeds in JSON + STIX  
+[x] Intel packages → STIX reports  
+[x] Alerts (email/webhook/discord)  
+[x] Prometheus metrics + healthcheck  
+[x] Next.js frontend (App Router)  
+[ ] Docker Compose for one-command deploy  
+[ ] TAXII 2.1 server for enterprise interop  
+[ ] Graph views of infrastructure reuse  
 [ ] ML-assisted IOC clustering
 
 ---
