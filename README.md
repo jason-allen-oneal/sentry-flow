@@ -59,12 +59,12 @@ PYTHONPATH=backend uvicorn app.main:app --reload
 
 Runs on http://127.0.0.1:8000
 
-Endpoints:
-/indicators – submit/bulk upload IOCs 
-/feeds – JSON feed 
-/feeds/stix – STIX 2.1 bundle 
-/packages – intel packages 
-/apikeys/create – generate API keys 
+Endpoints:  
+/indicators – submit/bulk upload IOCs  
+/feeds – JSON feed  
+/feeds/stix – STIX 2.1 bundle  
+/packages – intel packages  
+/apikeys/create – generate API keys  
 /health + /metrics – monitoring 
 
 
