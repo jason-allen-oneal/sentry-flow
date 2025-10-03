@@ -77,12 +77,12 @@ npm run dev
 
 Runs on http://localhost:3000 
 
-Pages: 
-/submit – IOC submission form 
-/indicators – browse/search table 
-/packages – view intel packages 
-/feeds – generate JSON/STIX feed URLs 
-/apikeys – create/manage API keys 
+Pages:  
+/submit – IOC submission form  
+/indicators – browse/search table  
+/packages – view intel packages  
+/feeds – generate JSON/STIX feed URLs  
+/apikeys – create/manage API keys  
 /alerts – define alert rules
 
 ---
