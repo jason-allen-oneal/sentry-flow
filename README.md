@@ -42,7 +42,7 @@ sentry-flow/
 ├── .gitignore     # Monorepo ignores (Python, Node, env, logs)
 ├── README.md      # This file
 └── docker-compose.yml (planned) # Containerized deploy
-
+```
 ---
 
 ## 🚀 Getting Started
