@@ -6,6 +6,12 @@ Includes a FastAPI backend and a modern Next.js frontend for researchers, blue t
 
 ---
 
+## WIP / Maintenance Note
+
+SentryFlow is an incomplete MVP. Core ingestion, scoring, feeds, alerts, and the frontend exist, but Docker-based deployment, TAXII 2.1 interoperability, infrastructure graph views, and ML-assisted clustering remain on the roadmap. Treat the project as development software until those gaps are addressed.
+
+---
+
 ## ✨ Features
 
 - 🔍 **IOC Ingestion** – Submit single or bulk IOCs (CSV/JSON) via API or UI  
@@ -134,7 +140,6 @@ Open – JSON + STIX feeds, Prometheus metrics, extensible enrichments
 
 
 **Think MISP-lite, but with modern UX and no BS.**
-
 
 
 
